@@ -1,4 +1,4 @@
-/* Oracle. Start Prep: Term Courses Added or Modified 
+/* Oracle. Start Prep: Term Courses Added or Modified. Supporting visualization tool for system admins monitoring automated course creation processes.
 */
 
 SELECT 
